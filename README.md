@@ -1,6 +1,6 @@
 # MY_SOKOBAN
 
-###### EPITECH
+###### EPITECH PROJECT
 With this game in C, you will be able to play the rules and concepts of the famous game Sokoban. Using the Ncurses library, the program will be able to read the contents of a given map and allow gameplay in the terminal of your computer.
  
 
