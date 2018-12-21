@@ -2,7 +2,9 @@
 
 ###### EPITECH PROJECT
 With this game in C, you will be able to play the rules and concepts of the famous game Sokoban.
+
 Using the Ncurses library, the program will be able to read the contents of a given map and allow gameplay in the terminal of your computer. 
+
 Your goal, using the keys on your keyboard, is to push the boxes (X) on the receivers (O) thanks to your character (P) avoiding the walls (#).
  
 
