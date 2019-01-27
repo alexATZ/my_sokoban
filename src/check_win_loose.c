@@ -40,6 +40,8 @@ void check_win(utility_t *misc)
         }
     }
     if (win == must) {
+        clear();attron(A_BLINK);printw("\n\nYOU WIN !\n\n\n");
+        attroff(A_BLINK);refresh();
         exit (0);
     }
 }
@@ -62,6 +64,8 @@ void check_loose(utility_t *misc, int width)
         }
     }
     if (loose == must) {
+        clear();attron(A_BLINK);printw("\n\nGAME OVER !\n\n\n");
+        attroff(A_BLINK);refresh();
         exit (1);
     }
 }
