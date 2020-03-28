@@ -22,7 +22,3 @@ Your map file, required by the program, must contain only the characters allowed
 - Implement a condition of victory and defeat
 - Add colors
 - Add a multiplayer
-
-
-
-*Feel free to contact me at alexis.bret@epitech.eu for any question.* :+1:
